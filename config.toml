@@ -7,6 +7,15 @@ theme = "hyde"
   description = "Um blog sobre programação e finanças"
   author = "Vitor Mitsuo"
 
+[[menu.main]]
+  name = "Currículo"
+  url = "/curriculo/"
+  weight = 2
+
+[[menu.main]]
+  name = "Sobre Mim"
+  url = "/about/"
+  weight = 1
 
 
 
