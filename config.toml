@@ -6,7 +6,7 @@ theme = "hyde"
 [params]
   description = "Um blog sobre programação e finanças"
   author = "Vitor Mitsuo"
-
+  netlify_cms = true
 
 
 
