@@ -1,0 +1,14 @@
+baseURL = "https://vitor-mitsuo-matrubashi.netlify.app/"
+languageCode = "pt-BR"
+title = "Vitor Mitsuo"
+theme = "hyde"
+
+[params]
+  description = "Um blog sobre programação e finanças"
+  author = "Vitor Mitsuo"
+
+
+
+
+
+  
