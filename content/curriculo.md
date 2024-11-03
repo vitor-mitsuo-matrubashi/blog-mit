@@ -1,8 +1,9 @@
-+++
-date = '2024-11-03T01:08:53-03:00'
-draft = true
-title = 'Currículo'
-+++
+---
+date: '2024-11-03T01:08:53-03:00'
+draft: true
+title: 'Currículo'
+layout: "page"
+---
 
 # Perfil
 

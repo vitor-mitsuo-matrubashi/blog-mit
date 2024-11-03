@@ -1,8 +1,11 @@
-+++
-date = '2024-11-03T00:50:55-03:00'
-draft = true
-title = 'About'
-+++
+---
+title: "Sobre Mim"
+date: 2024-11-03T12:00:00Z
+draft: false
+layout: "page"
+---
+
+
 
 Olá! 👋 Eu sou o Vitor Mitsuo, mas pode me chamar de Mit.
 
